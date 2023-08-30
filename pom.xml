@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>ru.sergsnic.springcourse</groupId>
-  <artifactId>spingapp1</artifactId>
+  <artifactId>springapp1</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>spingapp1 Maven Webapp</name>
